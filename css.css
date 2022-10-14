@@ -1,0 +1,123 @@
+body{
+    background-color: teal;
+    margin-right: 450px;
+    margin-left: 450px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: auto;
+    width: 1000px;
+    position: relative;
+}
+/* PHOTO PNG */
+.java{
+    float: left;
+    height: 120px;
+    width: 200px;
+    box-shadow: 7px 10px 7px grey;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.academie{  
+  width: 200px;
+  height: 125px;
+  padding-bottom: 5px ;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.villeroubaix{
+ width: 200px;
+ height: 125px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+/*-----------------------------------*/
+/* BLOC MERE */
+.bloc{
+    background-color: lightgrey;
+}
+/*-----------------------------------*/
+.bloc2{
+    width: 225px;
+    height: 600px;
+    border-right: black dotted 2px;
+    position: relative;
+    border-bottom: 20px;
+    padding-left: 15px;
+
+}
+/*-----------------------------------*/
+.bloc3{
+    height: auto;
+    width: 700px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    position: absolute;
+    left: 260px;
+    text-align: justify;
+    text-size-adjust: 5px;
+}
+h2{
+    color: #5C2319;
+    font-size: 20px;
+}
+/*-----------------------------------*/
+/*FOOOOOTER*/
+.bloc4{
+    height: 150px;
+    width: auto;
+    background-color: #694C46;
+    padding-left: 10px;
+}
+h4{
+    color:white;
+    text-decoration: underline;
+
+}
+.partenaire{
+    position: absolute;
+    color: white;
+    
+
+}
+.motscle{
+    position: absolute;
+    left: 200px;
+    word-spacing: 3px;
+    color: white;
+}
+.copyright{
+    position: absolute;
+    left: 450px;
+    word-spacing: 5px;
+    color: white;
+}
+/*-----------------------------------*/
+/* Le titre */
+.present{
+    color: #5C2319;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 200px;
+    width: auto;  
+    background-color: darkgrey;
+}
+/*---------------------------------------*/
+/*Tcho language*/
+.language
+{
+    background-color: #694C46;
+    color: white;
+    text-align: center;
+    word-spacing: 30px;
+    padding: 7px;
+}
+h3{
+    color: #5C2319;
+    text-decoration: underline;
+
+}
+a:visited {
+    color: white;
+  }
